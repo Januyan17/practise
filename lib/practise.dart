@@ -45,13 +45,13 @@ class Profile extends StatelessWidget {
                         textStyle: TextStyle(fontSize: 50.0)),
                   ),
                   const SizedBox(
-                    height: 20,
+                    height: 10,
                   ),
                   const Text(
                     "Title",
                     textAlign: TextAlign.center,
                     style: TextStyle(
-                        color: Colors.black,
+                        color: Colors.purpleAccent,
                         fontSize: 15,
                         fontFamily: 'Shizuru'),
                   ),
